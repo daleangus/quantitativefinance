@@ -1,7 +1,0 @@
-﻿  main.cpp
-  ELOM.cpp
-c:\users\dale\documents\visual studio 2015\projects\assignment5\assignment5\elom.cpp(210): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\dale\documents\visual studio 2015\projects\assignment5\assignment5\elom.cpp(212): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Generating Code...
-  Assignment5.vcxproj -> C:\Users\Dale\Documents\Visual Studio 2015\Projects\Assignment5\Debug\Assignment5.exe
-  Assignment5.vcxproj -> C:\Users\Dale\Documents\Visual Studio 2015\Projects\Assignment5\Debug\Assignment5.pdb (Partial PDB)

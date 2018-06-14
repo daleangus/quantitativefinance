@@ -1,2 +1,0 @@
-copy "ORDERS_BUY - Original.TXT" ORDERS_BUY.TXT
-copy "ORDERS_SELL - Original.TXT" ORDERS_SELL.TXT
